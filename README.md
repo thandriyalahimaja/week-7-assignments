@@ -2,7 +2,22 @@
 
 ## Project Overview
 
-This project contains multiple React.js mini applications developed using **Vite**. The project demonstrates component-based architecture, props, state management, list rendering, filtering, and reusable UI components.
+
+
+This project is mainly used to learn and practice React.js fundamentals.
+
+Purpose:
+
+Understand component-based development
+Learn how to use useState
+Practice passing props between components
+Build reusable UI components
+Learn list rendering and filtering
+Handle user input and events
+Mini Projects Purpose
+Task Manager → Learn state management and dynamic updates
+Products Page → Learn props and reusable components
+Country Explorer → Learn search/filter functionality.
 
 The project includes:
 
